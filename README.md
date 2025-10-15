@@ -32,7 +32,7 @@ Color-Picker/
 
 ---
 
-## 🚀 How to Use
+## 🚀  How to Use
 
 1. 📂 Open the `index.html` file in your browser.  
 2. 🎨 Use the color picker to choose any color.  
