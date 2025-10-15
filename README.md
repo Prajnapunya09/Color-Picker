@@ -1,11 +1,11 @@
-# 🎨 Color Picker
+# 🎨  Color Picker
 
 A simple and interactive **Color Picker Web App** built using **HTML, CSS, and JavaScript**.  
 This project allows users to select a color or generate a random one, instantly changing the background color of the page.
 
 ---
 
-## 🌟 Features
+## 🌟  Features
 
 - 🎯 Pick any color using the color input tool  
 - 💡 View the selected color’s **hex code** in real-time  
@@ -15,7 +15,7 @@ This project allows users to select a color or generate a random one, instantly 
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️  Technologies Used
 
 - 💻 **HTML5** – Structure of the web page  
 - 🎨 **CSS3** – Styling and layout  
