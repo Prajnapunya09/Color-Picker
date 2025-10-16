@@ -23,7 +23,7 @@ This project allows users to select a color or generate a random one, instantly 
 
 ---
 
-## 📁 Project Structure
+## 📁  Project Structure
 
 Color-Picker/
 ├── index.html # Main HTML file
@@ -32,7 +32,7 @@ Color-Picker/
 
 ---
 
-## 🚀  How to Use
+## 🚀   How to Use
 
 1. 📂 Open the `index.html` file in your browser.  
 2. 🎨 Use the color picker to choose any color.  
@@ -41,6 +41,6 @@ Color-Picker/
 
 ---
 
-## 📸 Output Preview
+## 📸  Output Preview
 
 ![Color Picker Output](https://github.com/Prajnapunya09/Color-Picker/blob/main/Color%20picker%20output%20img.jpg)
