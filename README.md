@@ -10,7 +10,6 @@ This project allows users to select a color or generate a random one, instantly 
 - 🎯 Pick any color using the color input tool  
 - 💡 View the selected color’s **hex code** in real-time  
 - 🎲 Generate a **random color** with one click  
-- 🌈 Smooth background transition  
 - 🧩 Simple, responsive, and minimal design  
 
 ---
