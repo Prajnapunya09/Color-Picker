@@ -14,7 +14,7 @@ This project allows users to select a color or generate a random one, instantly 
 
 ---
 
-## 🛠️  Technologies Used
+##  🛠️  Technologies Used
 
 - 💻 **HTML5** – Structure of the web page  
 - 🎨 **CSS3** – Styling and layout  
