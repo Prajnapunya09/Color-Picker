@@ -22,7 +22,7 @@ This project allows users to select a color or generate a random one, instantly 
 
 ---
 
-## 📁  Project Structure
+##  📁  Project Structure
 
 Color-Picker/
 ├── index.html # Main HTML file
