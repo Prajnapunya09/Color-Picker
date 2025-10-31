@@ -40,6 +40,6 @@ Color-Picker/
 
 ---
 
-## 📸  Output Preview
+##  📸  Output Preview
 
 ![Color Picker Output](https://github.com/Prajnapunya09/Color-Picker/blob/main/Color%20picker%20output%20img.jpg)
