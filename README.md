@@ -33,7 +33,7 @@ Color-Picker/
 
 ##  🚀   How to Use
 
-1. 📂 Open the `index.html` file in your browser.  
+ 1. 📂 Open the `index.html` file in your browser.  
 2. 🎨 Use the color picker to choose any color.  
 3. 🎲 Click the  **“Random Color”** button to generate a random color.  
 4. 🌈 The page background and color code will update instantly.  
